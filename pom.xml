@@ -80,6 +80,9 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<image>
+						<name>smjani1991/ecom-demo</name>
+					</image>
 				</configuration>
 			</plugin>
 		</plugins>
